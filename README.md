@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   THIS IS MY PORTFOLIO WEBSITE<br>
-  <a> PLEASE VISIT AND CHECK IT OUT</a> <br>
+  PLEASE VISIT AND CHECK IT OUT<br>
   <a href="#">https://tusharkumar.live/</a>
   <br>
    <br>

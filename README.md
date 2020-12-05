@@ -2,8 +2,8 @@
 
 <p align="center">
   <br>
-  THIS IS MY PORTFOLIO WEBSITE<br>
-  PLEASE VISIT AND CHECK IT OUT<br>
+  <b>THIS IS MY PORTFOLIO WEBSITE<br>
+  PLEASE VISIT AND CHECK IT OUT<b><br>
   <a href="#">https://tusharkumar.live/</a>
   <br>
    <br>

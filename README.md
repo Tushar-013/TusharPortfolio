@@ -8,7 +8,7 @@ https://tusharkumar.live/
 <img src="https://tusharkumar.live/coverpic.png">
 </p>
 <p align="center">
-  <b>Some Links:</b><br>
+
   <a>THIS IS MY PORTFOLIO WEBSITE</a> <br>
   <a> PLEASE VISIT AND CHECK IT OUT</a> <br>
   <a href="#">https://tusharkumar.live/</a>

@@ -7,3 +7,11 @@ https://tusharkumar.live/
 
 <img src="https://tusharkumar.live/coverpic.png">
 </p>
+<p align="center">
+  <b>Some Links:</b><br>
+  <a>THIS IS MY PORTFOLIO WEBSITE</a> 
+  <a> PLEASE VISIT AND CHECK IT OUT</a> 
+  <a href="#">https://tusharkumar.live/</a>
+  <br><br>
+  <img src="https://tusharkumar.live/coverpic.png">
+</p>

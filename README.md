@@ -4,8 +4,8 @@ Personal portfolio website
   <br>
   <b>THIS IS MY PORTFOLIO WEBSITE<br>
   PLEASE VISIT AND CHECK IT OUT<b><br>
-  https://tusharkumar.live/
+  www.tusharkumar.teck
   <br>
    <br>
-  <img src="https://tusharkumar.live/coverpic.png">
+  <img src="https://tusharkumar.tech/coverpic.png">
 </p>
